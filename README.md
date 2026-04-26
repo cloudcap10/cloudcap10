@@ -1,57 +1,44 @@
+### Hi, I'm Joven Talasan 👋
 
-# Greetings, World! 👋
+**Network Engineer & Builder** — I automate the repetitive parts of network operations and build tools that help teams stay on top of their infrastructure.
 
-I'm a technology enthusiast deeply engrossed in the world of server architecture, cluster deployment, and the integration of seamless services. My journey in tech has led me to explore the depths of containerization, with a keen focus on mastering Docker within self-hosted servers on VPS, Proxmox and Kubernetes.
+🌐 **[talz.net](https://talz.net)** · [LinkedIn](https://www.linkedin.com/in/joven-talasan/) · [cloning@talz.net](mailto:cloning@talz.net)
 
-## What I Do
+---
 
-- **Server and Cluster Deployment**: I thrive on designing and implementing scalable server infrastructures and clusters, ensuring high availability and performance.
+## 🚀 Featured Projects
 
-- **Containerization with Docker**: Currently, I'm diving deep into Docker, learning to containerize applications to achieve consistency across development, testing, and production environments.
+| Project | Description | Live |
+|---|---|---|
+| 🔒 [FileVanish](https://github.com/cloudcap10/filevanish) | Zero-knowledge file sharing — AES-256-GCM client-side encryption, burn-after-reading | [filevanish.com](https://filevanish.com) |
+| 🖥️ [Network Automation Script](https://github.com/cloudcap10/Network-Automation-Script) | Config backup & inventory automation for Cisco, Alcatel-Lucent, and Aruba devices | [netscript.talz.net](https://netscript.talz.net) |
+| 🤖 [PickModel](https://github.com/cloudcap10/pickmodel) | Objective AI model comparison — context windows, pricing, benchmarks, capabilities | [pickmodel.uk](https://pickmodel.uk) |
+| ⏱️ [SupportExpiry](https://github.com/cloudcap10/supportexpiry) | Hardware & software EOL tracking with AI-powered research, email alerts, Google SSO | [supportexpiry.com](https://supportexpiry.com) |
 
-- **K3S on Diverse Platforms**: Diving into the world of Kubernetes with K3S, I have successfully deployed clusters across various environments including Proxmox, and integrated key technologies such as Rancher for management, Longhorn for storage solutions, Traefik for load balancing, cert-manager and Argo CD for gitops. This journey has expanded my expertise in both container orchestration and the optimization of microservices.
-<p align="center">
-<img src="https://t3.talz.net/talz/img/k8s.png" alt="k8s"/>
-</p>
+---
 
+## 🛠️ Skills & Tools
 
-## My Learning Path
+**Network Engineering**
 
-- **Self-Hosted Servers**: By managing my own servers on VPS, Homelab running Proxmox, I'm hands-on with deploying, monitoring, and optimizing applications in real-world scenarios.
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Aruba](https://img.shields.io/badge/Aruba-FF8300?style=flat-square&logo=arubanetworks&logoColor=white)
 
-- **Continuous Growth**: I'm committed to continuous learning, always exploring new technologies and practices that push the boundaries of what I can build and improve.
+**Development**
 
-## Connect With Me
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-If you're passionate about technology, love to discuss server architecture, Docker, or any cool tech, feel free to reach out! I'm always open to collaborating on projects or exchanging knowledge.
+**Infrastructure**
 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Infrastructure Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s" style="vertical-align:top margin:6px 4px">
-  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell" style="vertical-align:top margin:6px 4px">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" style="vertical-align:top margin:6px 4px">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" style="vertical-align:top margin:6px 4px">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="vertical-align:top margin:6px 4px">
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="proxmox  " style="vertical-align:top margin:6px 4px">
-  <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="vmware" style="vertical-align:top margin:6px 4px">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="cloudflare" style="vertical-align:top margin:6px 4px">
-  <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044" alt="argocd" style="vertical-align:top margin:6px 4px">
-  <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="rancher" style="vertical-align:top margin:6px 4px">
-</p>
+---
 
-
-
-
-
-:star: Featured Project : 
-- [My Self-Hosted Server on a VPS Using Docker](https://github.com/cloudcap10/configcraft)
-- [My Kubernetes cluster](https://github.com/cloudcap10/k8s-cluster)
-- [EBC Main Site](https://www.effectiveconsultancy.com.au/)
-- [Show IP](https://showip.io/)
-
-
-## Get in touch
-- [Linkedin](https://www.linkedin.com/in/joven-talasan/)
-
-![](https://komarev.com/ghpvc/?username=talzcloning)
+![Profile Views](https://komarev.com/ghpvc/?username=talzcloning&style=flat-square&color=cc5c33)
